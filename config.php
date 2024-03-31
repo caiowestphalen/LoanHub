@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$dbname = 'capsulift_loanhub';
-$username = 'capsulift_loanhun';
-$password = '8@cR))^205yt';
+$dbname = 'dbname';
+$username = 'username';
+$password = 'password';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
