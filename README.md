@@ -1,4 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.posdomboscoead.com.br%2Finstitucional&psig=AOvVaw3qwj48r69n8GOKQGs90kyB&ust=1711985755010000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiYxIbqnoUDFQAAAAAdAAAAABAE" style="width: 30%">
+<img src="https://painel.posdomboscoead.com.br/assets/uploads/143/cfe9b-logo-dom-bosco.png" alt="Descrição da imagem" style="width: 30%">
+
 
 # 📝 Descrição do projeto:
 
