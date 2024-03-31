@@ -9,10 +9,10 @@ LoanHub é uma plataforma inovadora projetada para gerenciar empréstimos do FGT
 # 🔧 Etapas do desenvolvimento:
 
 **BACK-END**  
-[ ] **01:** Definindo o escopo do projeto <br>
-[ ] **02:** Prototipando o Banco de dados <br>
-[ ] **03:** Criando o meu projeto <br>
-[ ] **04:** Primeiro modelo do meu projeto <br>
+[x] **01:** Definindo o escopo do projeto <br>
+[x] **02:** Prototipando o Banco de dados <br>
+[x] **03:** Criando o meu projeto <br>
+[x] **04:** Primeiro modelo do meu projeto <br>
 [ ] **05:** Criando o primeiro CRUD <br>
 
 **FRONT-END**  
